@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/ParthGupta0806/DSA_JAVA/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/ParthGupta0806/DSA_JAVA/tree/master/0888-fair-candy-swap) |
 ## Hash Table
 |  |
 | ------- |
+| [0697-degree-of-an-array](https://github.com/ParthGupta0806/DSA_JAVA/tree/master/0697-degree-of-an-array) |
 | [0888-fair-candy-swap](https://github.com/ParthGupta0806/DSA_JAVA/tree/master/0888-fair-candy-swap) |
 ## Binary Search
 |  |
